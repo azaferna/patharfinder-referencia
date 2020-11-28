@@ -60,6 +60,7 @@ function init() {
     fill_section(data_movement, "basic-movement", "Acción de movimiento");
     fill_section(data_action, "basic-actions", "Acción estándar");
     fill_section(data_swift, "basic-swift-actions", "Acción rápida");
+    fill_section(data_combatmaneuvers, "basic-combat-maneuvers", "Maniobras de combate");
     fill_section(data_reaction, "basic-reactions", "Reacción");
     fill_section(data_condition, "basic-conditions", "Condición");
     fill_section(data_environment_obscurance, "environment-obscurance", "Ambiente");

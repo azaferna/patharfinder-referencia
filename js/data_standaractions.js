@@ -55,38 +55,6 @@ data_action = [
         ]
     },
 	{
-        title: "Fintar",
-        icon: "two-shadows",
-        subtitle: "Tratas de engañar al enemigo",
-        description: "Intentas una finta con una prueba de Engañar",
-        reference: "SFCR, pág. 246.",
-        bullets: [
-            "Usas tu acción estándar para intentar una finta con una prueba de Engañar, La CD es igual a 10 + el bonificador total de Averiguar intenciones del oponente o 15 + (1.5 x el VD del oponente), lo que sea mayor.",
-			"No puedes fintar contra una criatura que no tiene puntuación de Inteligencia y no puedes tomar 10 ni 20 en una prueba de engañar para fintar.",
-			"Cuando tienes éxito en una finta, tratas a tu oponente como desprevenido en tu siguiente ataque contra él antes del final de tu siguiente turno."
-        ]
-    },
-	{
-        title: "Fuego de cobertura",
-        icon: "heavy-rain",
-        subtitle: "Das cobertura a un aliado",
-        description: "Llevas acabo un ataque a distancia que proporciona covertura a un aliado",
-        reference: "SFCR, pág. 246.",
-        bullets: [
-            "Haz una tirada de ataque a distancia contra CA 15. Si impactas, no infliges ningún daño pero el aliado elegido obtiene un bonificador +2 por circunstancia a la CA contra el siguiente ataque de una criatura en tu línea de efecto, si dicho ataque tiene lugar antes de tu siguiente turno."
-			]
-    },
-	{
-        title: "Fuego hostigador",
-        icon: "heavy-rain",
-        subtitle: "Distraes a un enemigo",
-        description: "Llevas acabo un ataque a distancia que distrae a un enemigo en tu línea de efecto",
-        reference: "SFCR, pág. 246.",
-        bullets: [
-            "Haz una tirada de ataque a distancia contra CA 15. Si impactas, no infliges ningún daño, pero el siguiente aliado que ataque a ese oponente obtiene un bonificador +2 por circunstancia a su siguiente tirada de ataque, si sucede antes de tu siguiente turno."
-			]
-    },
-	{
         title: "Lanzar un conjuro",
         icon: "magic-swirl",
         subtitle: "Lanzamiento de 1 acción estándar",
