@@ -3,7 +3,7 @@ Starfinder-referencia
 
 Referencia Rápida para Pathfinder
 
-https://cylira.github.io/pathfinder-referencia/
+https://azaferna.github.io/patharfinder-referencia/
 
 Icons
 ==============
