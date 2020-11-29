@@ -1,4 +1,4 @@
-Starfinder-referencia
+Pathinder-referencia
 ==============
 
 Referencia Rápida para Pathfinder
