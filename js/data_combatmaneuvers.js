@@ -70,5 +70,5 @@ data_combatmaneuvers = [
         bullets: [
             "Puedes intentar romper un objeto que tu oponente empuña o lleva puesto como parte de una acción de ataque, en lugar de un ataque cuerpo a cuerpo. Si no dispones de la dote Romper arma mejorado, o  una aptitud similar, intentar romper un objeto provoca un ataque de oportunidad por parte del objetivo de la maniobra. Si tu ataque tiene éxito, infliges daño al objeto de la forma normal. Todo daño que excede la Dureza del objeto se resta de sus puntos de golpe. Si el objeto queda reducido a la mitad de sus puntos de golpe totales o menos, pasa al estado ‘roto’. Si el daño que infliges reduciría al objeto a menos de 0 puntos de golpe, puedes elegir destruirlo. Si eliges no destruirlo, el objetivo queda reducido a 1 solo punto de golpe y pasa al estado ‘roto’."
         ]
-    },
+    }
 ]
